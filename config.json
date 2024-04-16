@@ -2,17 +2,17 @@
  "pools":[
  {
   "name": "pool.verus.io",
-        "url": "stratum+tcp://sg.vipor.net:5040",
+        "url": "stratum+tcp://sg.vipor.net:5045",
   "timeout": 150
  },
  {
   "name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://sg.vipor.net:5140",
+        "url": "stratum+tcp://sg.vipor.net:5145",
   "timeout": 60,
   "time-limit": 600
  }],
  
- "user": "RDaYAthXpySvq1SjWpmvsKcyujGXv7PjSu.Joy3_08",
+ "user": "RDaYAthXpySvq1SjWpmvsKcyujGXv7PjSu.Joy3_01",
  "algo": "verus",
  "threads": 8,
  "cpu-priority": 1,
